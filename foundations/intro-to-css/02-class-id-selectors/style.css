@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+p.odd{
+    background-color: rgb(224, 164, 174);
+    font-family: 'Verdana', 'Dejavu Sans', sans-serif;
+}
+
+#two{
+    color: rgb(116, 116, 173);
+    font-size: 36px;
+}
+
+p.three,
+#three{
+    font-size: 24px;
+}
+
+#three{
+    background-color: rgb(144, 238, 144);
+    font-weight: bold;
+}
