@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+.click_me{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
+
+.no_click_me{
+    background-color: rgb(255, 225, 0);
+}
+
+.click_me,
+.no_click_me{
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+}
